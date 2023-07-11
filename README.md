@@ -19,7 +19,7 @@ Desenvolver um software de gerenciamento de vendas que permita a Seu Carlinhos g
 
 - **Sistema de Fidelidade**: O software terá um sistema de fidelidade integrado que oferecerá benefícios aos clientes com base em suas compras e contratos.
 
-- **Agendamento de Consertos**: O software permitirá a Seu Carlinhos gerir os agendamentos de consertos através do WhatsApp ou telefone.
+- **Agendamento de Serviços**: O software contará com a utilização do serviço Calendly para gerir agendamentos de vendas, reparos ou compras.
 
 - **Gestão de Entregas**: O software permitirá a Seu Carlinhos calcular o custo da entrega com base na distância, no preço da gasolina e no veículo utilizado.
 
