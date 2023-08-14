@@ -16,7 +16,7 @@ Desenvolver um software de gerenciamento de vendas que permita a Seu Carlinhos g
 O software de gerenciamento de vendas incluirá as seguintes funcionalidades:
 
 ### 1. Vendas e Gestão de Produtos:
-- **Compra e Venda de Equipamentos, Peças e Itens**: Permitirá aos clientes visualizar, pesquisar e comprar equipamentos, peças e itens disponíveis.
+- **Solicitar Equipamentos, Peças e Itens**: Permitirá aos clientes visualizar, pesquisar e comprar equipamentos, peças e itens disponíveis.
 - **Registro de Equipamentos e Produtos**: Seu Carlinhos poderá registrar os equipamentos e produtos com os quais ele já trabalhou.
 - **Gestão de Entregas**: Permitirá calcular o custo da entrega com base na distância, no preço da gasolina e no veículo utilizado.
 - **Controle de Caixa Simples**: Onde é visto quantos reais entraram ou saíram a partir das vendas, sendo capaz de identificar os itens mais vendidos no mês e que merecem uma atenção especial.
