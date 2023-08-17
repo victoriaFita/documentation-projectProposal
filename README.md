@@ -1,5 +1,5 @@
 # Situação Problema
-Seu Carlinhos é o proprietário de uma empresa de conserto e venda de máquinas fitness, além de venda de peças específicas e outros itens, há mais de 20 anos. Ele trabalha sozinho, mas ocasionalmente sua esposa, Dona Vânia, o auxilia no atendimento ao cliente.
+Seu Carlinhos é o proprietário de uma empresa de conserto e venda de máquinas fitness, além de venda de peças específicas e outros itens, há mais de 10 anos. Ele trabalha sozinho, mas ocasionalmente sua esposa, Dona Vânia, o auxilia no atendimento ao cliente.
 
 Para solicitar um atendimento, o cliente deve ligar ou enviar uma mensagem via WhatsApp, que será respondida por Seu Carlinhos ou Dona Vânia o mais rápido possível. Durante a conversa, o cliente expressa sua necessidade, seja ela conserto ou compra de um equipamento, peça ou item, e Seu Carlinhos fornece os valores. Se necessário, ele também combina o valor de locomoção até a casa do cliente, caso esteja dentro de um raio de 100km.
 
