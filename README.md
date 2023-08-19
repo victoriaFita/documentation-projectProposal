@@ -38,7 +38,7 @@ O software de gerenciamento de vendas incluirá as seguintes funcionalidades:
 Forneceremos treinamento para Seu Carlinhos e Dona Vânia para garantir que eles estejam confortáveis com o uso do software. Além disso, ofereceremos suporte contínuo após a implementação para garantir que o software continue atendendo às suas necessidades.
 
 ## Licença
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE.md](https://github.com/victoriaFitnessService/documentation/blob/main/LICENSE) para detalhes.
+Este projeto está licenciado sob a licença GPL.
 
 
 
